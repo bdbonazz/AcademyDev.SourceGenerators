@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Project Path="ConsoleApp/ConsoleApp.csproj" />
+  <Project Path="SourceGenerator/SourceGenerator.csproj" />
+</Solution>
